@@ -1,0 +1,13 @@
+,Signal_SMA,Signal_RSI,Signal_MACD,Signal_BOLLINGER
+^NDX,Neutral,Neutral,Sell,Neutral
+^IXIC,Neutral,Neutral,Sell,Neutral
+^DJI,Neutral,Neutral,Sell,Buy
+^GSPC,Neutral,Neutral,Sell,Neutral
+^RUT,Neutral,Neutral,Sell,Neutral
+^GDAXI,Neutral,Neutral,Sell,Neutral
+^STOXX50E,Neutral,Neutral,Sell,Neutral
+^N225,Neutral,Neutral,Sell,Neutral
+^HSI,Neutral,Neutral,Sell,Buy
+^NSEI,Neutral,Neutral,Sell,Neutral
+^CMC200,Neutral,Buy,Sell,Buy
+GC=F,Neutral,Neutral,Sell,Neutral
